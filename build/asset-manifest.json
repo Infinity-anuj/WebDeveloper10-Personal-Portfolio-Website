@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2fdb9ae.css",
+    "main.js": "/static/js/main.66ae60d6.js",
+    "static/media/netflix.jpg": "/static/media/netflix.c627ed259e8f09f1b608.jpg",
+    "static/media/ATM.jpg": "/static/media/ATM.bd76dfea4812be8ec690.jpg",
+    "static/media/TikTok.jpg": "/static/media/TikTok.f76c3358f8065c3d69ef.jpg",
+    "static/media/soon.jpg": "/static/media/soon.2ca1a42d741f8d202552.jpg",
+    "static/media/meh.png": "/static/media/meh.504f224c76a4b3653c0c.png",
+    "static/media/cv.pdf": "/static/media/cv.cf0b56318b372cba0aa3.pdf",
+    "static/media/instagram.jpg": "/static/media/instagram.54a247552e1a9e393d3e.jpg",
+    "static/media/me1-about.png": "/static/media/me1-about.68d0056f103290c9d008.png",
+    "static/media/hotstar.jpg": "/static/media/hotstar.234f04d6d97da86a9feb.jpg",
+    "static/media/vote.jpg": "/static/media/vote.40b4ca43519655c4e553.jpg",
+    "index.html": "/index.html",
+    "main.b2fdb9ae.css.map": "/static/css/main.b2fdb9ae.css.map",
+    "main.66ae60d6.js.map": "/static/js/main.66ae60d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2fdb9ae.css",
+    "static/js/main.66ae60d6.js"
+  ]
+}
